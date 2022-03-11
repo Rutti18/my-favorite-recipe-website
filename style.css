@@ -1,0 +1,45 @@
+h1 {
+    color: orangered;
+    font-family: sacramento, cursive;
+}
+
+h2 {
+color: green;
+}
+
+h3 {
+color: mediumblue;
+
+}
+
+h3 p {
+    line-height: 2.5 ;
+    }
+
+hr {
+    border: dotted blue 6px;
+    border-bottom: none;
+    width: 15%;
+}    
+
+a {
+    color: orangered;
+}
+
+#index-table {
+    padding: 0px 180px;
+}
+
+#index-table td{
+    padding: 0px 35px;
+
+}
+
+#directions-table td {
+    padding: 0px 20px;
+    background-color: rgb(246, 248, 130);
+}
+
+.Nutrition-facts {
+    margin-left: 70px;
+}
